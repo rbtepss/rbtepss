@@ -5,7 +5,7 @@ Hi 👋, I'm Robert Bernardo
 
 About me
 
-Graduated in Computer Science, I have been working with technology for 13 years, moving between support, development and testing.
+Graduated in Computer Science, I have been working with technology for 14 years, moving between support, development and testing.
 
 I always seek to improve my knowledge in automated development and testing (I am also regularly improving my skills in data structures and algorithms).
 Having knowledge of some languages such as Python and Java, working with automated tests in Robot, Selenium, Junit, Cypres, Tosca and Postman.
